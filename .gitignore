@@ -1,0 +1,7 @@
+# Build outputs (can also be cleaned by `make clean`)
+*.o
+*.elf
+*.img
+
+# Editors and configs
+.idea
